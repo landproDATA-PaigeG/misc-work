@@ -1,0 +1,271 @@
+entity_group_id,entity_category,entity_subgroup_id,count
+Private,Contractor,General,2654
+Private,Builder,Residential,532
+Private,Contractor,Electrical,520
+Private,Real Estate,Residential,516
+Private,Contractor,Plumbing,332
+Private,Contractor,HVAC,261
+Private,Contractor,Landscape,177
+Private,Contractor,Roofing,151
+Private,Contractor,Excavation,139
+Private,Engineering,Civil,103
+Public,Agency,Water,91
+Private,Engineering,Full Service,85
+Private,Contractor,Remodeling,81
+Private,Real Estate,Commercial,81
+Private,Contractor,Mechanical,68
+Private,Contractor,Concrete,61
+Private,Real Estate,Land,60
+Private,Inspection,Home,60
+Private,Contractor,Irrigation,53
+Public,Agency,Municipality,53
+Private,Contractor,Pools,46
+Private,Contractor,"Plumbing, Mechanical",45
+Private,Contractor,Fire,43
+Private,Other,General,38
+Private,Contractor,Restoration,33
+Private,Contractor,Solar,31
+Private,Agency,Water,29
+Private,Contractor,Sign,28
+Private,Engineering,Structural,28
+Private,Engineering,"Civil, Surveying",28
+Private,Contractor,Other,25
+Private,Contractor,Fence,24
+Private,Contractor,"Landscape, Irrigation",22
+Private,Contractor,Siding,22
+Private,Contractor,"Remodeling, General",20
+Private,Contractor,Well Drilling,20
+Public,Agency,Ancillary,19
+Private,Architect,Landscape,19
+Private,Contractor,"Electrical, General",17
+Private,Contractor,Paving,17
+Private,Engineering,Surveying,17
+Private,Contractor,Steel,17
+Private,Contractor,Framing,16
+Private,Engineering,"Full Service, Planner, Surveying",16
+Private,Engineering,"Full Service, Surveying",16
+Private,Contractor,Cabinets,16
+Private,Inspection,Other,15
+Private,Contractor,Masonry,14
+Public,Agency,Road,14
+Private,Contractor,Metal,14
+Private,Contractor,Lawn Care,13
+Private,Engineering,Water,12
+Private,Engineering,Mechanical,12
+Private,Contractor,"Landscape, General",12
+Private,Contractor,Security,11
+Public,Agency,Land,11
+Private,Contractor,Carpentry,11
+Private,Contractor,Drywall,11
+Private,Builder,General,11
+Private,Contractor,Water,10
+Private,Contractor,"Electrical, Controls",10
+Private,Contractor,Glass,9
+Private,Contractor,Millwork,9
+Private,Contractor,Painting,9
+Private,Contractor,Tree Service,9
+Private,Engineering,Environmental,9
+Private,Contractor,"Fire, Security",8
+Private,Engineering,Geotechnical,8
+Private,Contractor,Communications,8
+Private,Contractor,Demolition,8
+Public,Agency,Fire,8
+Private,Contractor,Windows,8
+Private,Contractor,Utilities,8
+Private,Engineering,Planner,7
+Private,Real Estate,"Residential,Land",7
+Private,Engineering,Consulting,7
+Private,Engineering,"Civil, Planning, Surveying",7
+Private,Real Estate,"Residential,Commercial",7
+Private,Contractor,Commercial,6
+Private,Contractor,"Landscape, Lawn Care",6
+Private,Contractor,"Excavation, General",6
+Private,Contractor,Flooring,6
+Private,Contractor,"Roofing, General",5
+Private,Contractor,"Siding, Windows",5
+Private,Contractor,Insulation,5
+Private,Contractor,"Irrigation, Landscape",5
+Private,Contractor,"Plumbing, General",5
+Private,Contractor,"Fireplace, Metal",5
+Public,Agency,Irrigation,5
+Public,Agency,Environmental,5
+Private,Contractor,"Restoration, General",5
+Private,Contractor,Septic,5
+Private,Contractor,"Sand, Gravel",4
+Private,Contractor,"Fence, Landscape",4
+Private,Contractor,Stucco,4
+Private,Builder,Commercial,4
+Private,Contractor,Fencing,4
+Private,Contractor,"Decks, Patio Covers",4
+Private,Contractor,"Concrete, General",4
+Private,Contractor,"Excavation, Grading",4
+Private,Engineering,"Civil, Structural",3
+Private,Engineering,"Civil, Surveying, Land Planning, Architect",3
+Private,Contractor,"Tile, Stone",3
+Private,Engineering,Design,3
+Private,Engineering,"Civil, Planner, Surveying",3
+Private,Engineering,"Civil, Planner",3
+Private,Engineering,"Full Service, Surveying, Mapping, Planning",3
+Private,Contractor,"Plumbing, Restoration",3
+Private,Contractor,"Plumbing, Remodeling",3
+Private,Contractor,Structural,3
+Private,Engineering,"Full Service, Planning, Surveying",3
+Private,Other,Water,3
+Public,Agency,Urban Renewal,3
+Private,Contractor,Excavating,3
+Public,Agency,Assessor,3
+Private,Contractor,Finish,3
+Private,Other,Stone,3
+Private,Other,Planner,3
+Private,Contractor,"Electrical, Lighting",3
+Private,Contractor,"Landscape, Design",3
+Private,Contractor,"Excavation, Concrete",3
+Private,Contractor,"Electrical, Solar",2
+Private,Contractor,"Fire, Water",2
+Private,Engineering,"General, Surveying",2
+Private,Contractor,Grading,2
+Private,Contractor,Elevator,2
+Private,Contractor,Energy,2
+Private,Engineering,Traffic,2
+Private,Contractor,Stone,2
+Private,Other,Irrigation,2
+Private,Contractor,Power,2
+Private,Engineering,Testing,2
+Private,Contractor,Energy Management,2
+Private,Engineering,Planning,2
+Private,Contractor,"Plumbing, Backflow",2
+Public,Engineering,Full Service,2
+Private,Contractor,Trim,2
+Private,Other,Pools,2
+Public,Agency,Housing,2
+Public,Agency,Parks,2
+Private,Contractor,"Excavation, Hauling",2
+Private,Contractor,"Roofing, Restoration",2
+Private,Contractor,"Roofing, Remodeling",2
+Private,Contractor,Coatings,2
+Private,Contractor,Residential,2
+Private,Contractor,"Landscape, Concrete",2
+Public,Agency,Health,1
+Public,Agency,Transit,1
+Public,Agency,Power,1
+Public,Agency,Planner,1
+Public,Engineering,"Civil, Surveying",1
+Private,Engineering,Land Surveying,1
+Private,Engineering,"Full Service, Surveying, Land Planning, Architect",1
+Public,Agency,Wildlife,1
+Public,Agency,Other,1
+Private,Engineering,"Full Service, Surveying, Architect",1
+Private,Engineering,"Planner, Surveying",1
+Public,Agency,Economic Development,1
+Private,Engineering,General,1
+Private,Other,Graphic,1
+Private,Engineering,"Structural, Civil",1
+Private,Other,Lawn Care,1
+Private,Other,"Irrigation, Landscape",1
+Private,Other,Glass,1
+Private,Other,Land,1
+Private,Other,Land Use,1
+Private,Other,Landscape,1
+Private,Other,"Fire, Water",1
+Private,Other,Energy,1
+Private,Other,Elevator,1
+Private,Other,Design,1
+Private,Engineering,"Full Service, Planning, Surveying, Landscape",1
+Private,Other,Controls,1
+Private,Other,"Landscape, Maintenance",1
+Private,Other,Commercial,1
+Private,Real Estate,Housing,1
+Private,Other,Manufacturing,1
+Private,Other,"Masonry, Hardscape",1
+Private,Other,"Media, Marketing",1
+Private,Other,Millwork,1
+Private,Other,"Remodeling, General",1
+Private,Other,"Remodeling, Restoration",1
+Private,Engineering,"Traffic, Planner",1
+Private,Other,"Sand, Gravel",1
+Private,Other,Sanitation,1
+Private,Engineering,"Surveying, Mapping, Planning",1
+Private,Other,Windows,1
+Private,Engineering,Survey,1
+Private,Agency,Irrigation,1
+Private,Contractor,"Roofing, Siding",1
+Private,Engineering,"Full Service, Architect, Surveying, Planning",1
+Private,Engineering,"Full Service, Architect, Surveying",1
+Private,Contractor,"Excavation, Demolition",1
+Private,Contractor,"Excavation, Earthwork",1
+Private,Contractor,"Excavation, Landscape",1
+Private,Contractor,"Excavation, Septic",1
+Private,Contractor,"Excavation, Trucking",1
+Private,Contractor,"Excavation, Utilities",1
+Private,Contractor,"Fence, Decks, Patio Covers",1
+Private,Contractor,"Finish, Carpentry",1
+Private,Contractor,Fire Protection,1
+Private,Contractor,"Flooring, Remodeling",1
+Private,Contractor,"Framing, Finish",1
+Private,Contractor,Garage Door,1
+Private,Contractor,"Grading, Trucking",1
+Private,Contractor,Gutter,1
+Private,Contractor,"Gutter, Shade",1
+Private,Contractor,"HVAC, Sheet Metal",1
+Private,Contractor,"Heating, Plumbing, Electric",1
+Private,Contractor,Erosion Control,1
+Private,Contractor,"Electrical, Technologies",1
+Private,Contractor,"Electrical, Remodeling",1
+Private,Contractor,Blasting,1
+Private,Architect,Planner,1
+Private,Builder,"Residential, Commercial",1
+Private,Contractor,Appliance Repair,1
+Private,Contractor,Asphalt,1
+Private,Contractor,"Asphalt, Excavation",1
+Private,Contractor,Audio Visual,1
+Private,Contractor,Awnings,1
+Private,Contractor,Boring,1
+Private,Contractor,"Electrical, Plumbing, HVAC",1
+Private,Contractor,"Boring, Excavation",1
+Private,Contractor,"Carpentry, Remodeling",1
+Private,Contractor,Civil,1
+Private,Contractor,Cleaning,1
+Private,Contractor,"Coatings, Blasting",1
+Private,Contractor,"Drywall, Remodeling",1
+Private,Contractor,"Electrical, Mechanical",1
+Private,Contractor,Home,1
+Private,Contractor,"Industrial, Marine",1
+Private,Contractor,Land,1
+Private,Engineering,"Civil, Planner, Landscape",1
+Private,Contractor,Supply,1
+Private,Contractor,"Tile, Painting",1
+Private,Contractor,"Tile, Remodeling",1
+Private,Contractor,Traffic Control,1
+Private,Contractor,Trucking,1
+Private,Contractor,"Trucking, General",1
+Private,Contractor,"Well Drilling, Septic",1
+Private,Engineering,"Civil, Planning",1
+Private,Contractor,"Siding, General",1
+Private,Engineering,"Civil, Planning, Management",1
+Private,Engineering,"Civil, Surveying, Planning, Landscape",1
+Private,Engineering,Electrical,1
+Private,Engineering,"Environmental, Civil, Water",1
+Private,Engineering,"Environmental, Mechanical",1
+Private,Engineering,"Environmental, Water",1
+Private,Engineering,Fire,1
+Private,Contractor,"Steel, General",1
+Private,Contractor,"Roofing, Waterproofing",1
+Private,Contractor,"Landscape, Cleaning",1
+Private,Contractor,"Plumbing, Septic",1
+Private,Contractor,"Landscape, Grading",1
+Private,Contractor,"Landscape, Pools",1
+Private,Contractor,"Landscape, Tree Service",1
+Private,Contractor,"Painting, General",1
+Private,Contractor,"Plumbing, Electrical",1
+Private,Contractor,"Plumbing, Excavation",1
+Private,Contractor,"Plumbing, HVAC",1
+Private,Contractor,"Pump, Supply",1
+Private,Contractor,"Roofing, Solar",1
+Private,Contractor,"Remodeling, Commercial",1
+Private,Contractor,"Remodeling, Design",1
+Private,Contractor,"Remodeling, Drywall",1
+Private,Contractor,"Remodeling, Electrical",1
+Private,Contractor,"Remodeling, Restoration",1
+Private,Contractor,"Roofing, Insulation",1
+Private,Contractor,"Roofing, Maintenance",1
+Public,Engineering,"Full Service, Surveying, Mapping, Planning",1
